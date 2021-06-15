@@ -10,7 +10,7 @@
   "dependencies": {
     "@ethersproject/bignumber": "5.1.0",
     "@ethersproject/contracts": "5.1.0",
-    "@ethersproject/providers": "5.1.0",
+    "@ethersproject/providers": "5.3.1",
     "@ethersproject/units": "5.1.0",
     "@ethersproject/wallet": "5.1.0",
     "@metamask/onboarding": "1.0.0",
